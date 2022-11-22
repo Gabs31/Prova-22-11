@@ -17,11 +17,13 @@ strong{
 #SobreosCorais{
     font-size: large;
 }
-
-em strong{
+#strong{
+    font-size: larger;
+}
+#p{
+    font-size: medium;
+}
+#em{
     font-size: larger;
 }
 
-p{
-    font-size: medium;
-}
