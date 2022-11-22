@@ -13,3 +13,11 @@ p{
 strong{
     color:rgb(65, 241, 232)
 }
+
+#SobreosCorais{
+    font-size: large;
+}
+
+em strong{
+    font-size: 20px;
+}
