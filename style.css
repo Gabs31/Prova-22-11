@@ -19,5 +19,9 @@ strong{
 }
 
 em strong{
-    font-size: 20px;
+    font-size: larger;
+}
+
+p{
+    font-size: medium;
 }
