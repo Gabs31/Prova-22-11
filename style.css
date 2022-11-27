@@ -2,6 +2,7 @@ body{
 
     background-color: rgb(120, 193, 196);
 }
+
 h1{
     text-align: center;
 }
@@ -26,3 +27,6 @@ em {
     color: rgb(0, 132, 255);
 }
 
+#Sobre{
+    font-size: large;
+}
