@@ -3,7 +3,7 @@ body{
     background-color: rgb(120, 193, 196);
 }
 
-h1{
+h2{
     text-align: center;
 }
 
@@ -29,9 +29,4 @@ em {
 
 #Sobre{
     font-size: large;
-}
-.titulo {
-    font-size: large;
-    font-style: oblique;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
